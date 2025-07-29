@@ -1,0 +1,310 @@
+1A01:
+  exchanges: 259
+  genes: 1232
+  metabolites: 1505
+  reactions: 2341
+3B05:
+  exchanges: 177
+  genes: 1008
+  metabolites: 1393
+  reactions: 2014
+3C02:
+  exchanges: 295
+  genes: 1249
+  metabolites: 1646
+  reactions: 2512
+3D05:
+  exchanges: 223
+  genes: 908
+  metabolites: 1414
+  reactions: 2075
+4A10:
+  exchanges: 185
+  genes: 977
+  metabolites: 1392
+  reactions: 1993
+4B03:
+  exchanges: 176
+  genes: 939
+  metabolites: 1263
+  reactions: 1880
+4E07:
+  exchanges: 161
+  genes: 1083
+  metabolites: 1294
+  reactions: 1878
+4F10:
+  exchanges: 190
+  genes: 1041
+  metabolites: 1448
+  reactions: 2120
+5C01:
+  exchanges: 185
+  genes: 1102
+  metabolites: 1449
+  reactions: 2091
+6C06:
+  exchanges: 282
+  genes: 912
+  metabolites: 1564
+  reactions: 2270
+6D02:
+  exchanges: 257
+  genes: 846
+  metabolites: 1537
+  reactions: 2116
+6D03:
+  exchanges: 257
+  genes: 1370
+  metabolites: 1573
+  reactions: 2434
+A1R12:
+  exchanges: 149
+  genes: 761
+  metabolites: 1235
+  reactions: 1725
+A2M03:
+  exchanges: 185
+  genes: 840
+  metabolites: 1388
+  reactions: 1971
+A3M17:
+  exchanges: 169
+  genes: 1084
+  metabolites: 1327
+  reactions: 1957
+A3R04:
+  exchanges: 182
+  genes: 957
+  metabolites: 1311
+  reactions: 1945
+A3R06:
+  exchanges: 192
+  genes: 1094
+  metabolites: 1431
+  reactions: 2084
+A3R12:
+  exchanges: 192
+  genes: 1027
+  metabolites: 1357
+  reactions: 2054
+A3R16:
+  exchanges: 198
+  genes: 1038
+  metabolites: 1434
+  reactions: 2069
+B2M06:
+  exchanges: 160
+  genes: 715
+  metabolites: 1192
+  reactions: 1727
+B2M13:
+  exchanges: 263
+  genes: 1151
+  metabolites: 1550
+  reactions: 2308
+B2M17:
+  exchanges: 174
+  genes: 682
+  metabolites: 1303
+  reactions: 1817
+B3M02:
+  exchanges: 288
+  genes: 1059
+  metabolites: 1605
+  reactions: 2332
+B3R10:
+  exchanges: 197
+  genes: 909
+  metabolites: 1368
+  reactions: 1979
+B3R18:
+  exchanges: 168
+  genes: 794
+  metabolites: 1279
+  reactions: 1837
+C1M14:
+  exchanges: 197
+  genes: 950
+  metabolites: 1450
+  reactions: 2130
+C1R06:
+  exchanges: 171
+  genes: 1109
+  metabolites: 1389
+  reactions: 2027
+C2M11:
+  exchanges: 260
+  genes: 911
+  metabolites: 1547
+  reactions: 2209
+C2R02:
+  exchanges: 214
+  genes: 976
+  metabolites: 1417
+  reactions: 2080
+C2R09:
+  exchanges: 206
+  genes: 973
+  metabolites: 1431
+  reactions: 2094
+C3M06:
+  exchanges: 192
+  genes: 1179
+  metabolites: 1483
+  reactions: 2161
+C3M10:
+  exchanges: 185
+  genes: 1119
+  metabolites: 1452
+  reactions: 2103
+C3R12:
+  exchanges: 286
+  genes: 1059
+  metabolites: 1567
+  reactions: 2371
+C3R15:
+  exchanges: 167
+  genes: 684
+  metabolites: 1261
+  reactions: 1783
+C3R17:
+  exchanges: 181
+  genes: 818
+  metabolites: 1370
+  reactions: 1973
+D2M02:
+  exchanges: 146
+  genes: 809
+  metabolites: 1214
+  reactions: 1743
+D2M19:
+  exchanges: 201
+  genes: 1032
+  metabolites: 1391
+  reactions: 2067
+D2R04:
+  exchanges: 176
+  genes: 947
+  metabolites: 1312
+  reactions: 1906
+D2R05:
+  exchanges: 192
+  genes: 1043
+  metabolites: 1382
+  reactions: 2044
+D2R18:
+  exchanges: 163
+  genes: 920
+  metabolites: 1253
+  reactions: 1804
+D3R19:
+  exchanges: 170
+  genes: 696
+  metabolites: 1285
+  reactions: 1796
+E2M01:
+  exchanges: 165
+  genes: 804
+  metabolites: 1292
+  reactions: 1843
+E3M09:
+  exchanges: 206
+  genes: 907
+  metabolites: 1402
+  reactions: 2003
+E3M17:
+  exchanges: 199
+  genes: 861
+  metabolites: 1395
+  reactions: 1948
+E3M18:
+  exchanges: 156
+  genes: 865
+  metabolites: 1255
+  reactions: 1813
+E3R01:
+  exchanges: 163
+  genes: 692
+  metabolites: 1280
+  reactions: 1809
+E3R09:
+  exchanges: 148
+  genes: 733
+  metabolites: 1198
+  reactions: 1704
+E3R11:
+  exchanges: 250
+  genes: 1018
+  metabolites: 1440
+  reactions: 2179
+E3R11_:
+  exchanges: 253
+  genes: 1018
+  metabolites: 1442
+  reactions: 2180
+E3R18:
+  exchanges: 175
+  genes: 761
+  metabolites: 1248
+  reactions: 1810
+F2R14:
+  exchanges: 197
+  genes: 998
+  metabolites: 1428
+  reactions: 2033
+F3M07:
+  exchanges: 244
+  genes: 890
+  metabolites: 1514
+  reactions: 2129
+F3M07_:
+  exchanges: 187
+  genes: 886
+  metabolites: 1362
+  reactions: 1949
+F3R08:
+  exchanges: 142
+  genes: 1056
+  metabolites: 1213
+  reactions: 1792
+F3R11:
+  exchanges: 139
+  genes: 895
+  metabolites: 1171
+  reactions: 1652
+G2M07:
+  exchanges: 198
+  genes: 901
+  metabolites: 1335
+  reactions: 1876
+G2R10:
+  exchanges: 290
+  genes: 1248
+  metabolites: 1597
+  reactions: 2450
+G2R14:
+  exchanges: 183
+  genes: 1052
+  metabolites: 1434
+  reactions: 2116
+G3M19:
+  exchanges: 154
+  genes: 1000
+  metabolites: 1253
+  reactions: 1844
+I2M19:
+  exchanges: 182
+  genes: 729
+  metabolites: 1350
+  reactions: 1899
+I2R16:
+  exchanges: 168
+  genes: 902
+  metabolites: 1277
+  reactions: 1864
+I3M07:
+  exchanges: 285
+  genes: 1204
+  metabolites: 1558
+  reactions: 2375

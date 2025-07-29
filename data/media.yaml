@@ -1,0 +1,83 @@
+base_medium:
+  R_EX_h2o_e: -1000
+  R_EX_o2_e: -1000
+  R_EX_cl_e: -1000
+  R_EX_na1_e: -1000
+  R_EX_so4_e: -1000
+  R_EX_k_e: -1000
+  R_EX_mg2_e: -1000
+  R_EX_ca2_e: -1000
+  R_EX_nh4_e: -1000
+  R_EX_pi_e: -1000
+  R_EX_btn_e: -1000
+  R_EX_fol_e: -1000
+  R_EX_pydxn_e: -1000
+  R_EX_ribflv_e: -1000
+  R_EX_thm_e: -1000
+  R_EX_nac_e: -1000
+  R_EX_ala_B_e: -1000
+  R_EX_4abz_e: -1000
+  R_EX_fe3_e: -1000
+  R_EX_h_e: -1000
+  R_EX_cobalt2_e: -1000
+  R_EX_cu2_e: -1000
+  R_EX_fe2_e: -1000
+  R_EX_mn2_e: -1000
+  R_EX_mobd_e: -1000
+  R_EX_zn2_e: -1000
+  R_EX_sel_e: -1000
+  R_EX_ni2_e: -1000
+  R_EX_slnt_e: -1000
+  R_EX_tungs_e: -1000
+  R_EX_h2_e: -1000
+  R_EX_cu_e: -1000
+  R_EX_cbl1_e: -1000
+ac:
+  R_EX_ac_e: -10
+pro__L:
+  R_EX_pro__L_e: -10
+glc__D:
+  R_EX_glc__D_e: -10
+pyr:
+  R_EX_pyr:_e: -10
+cit:
+  R_EX_cit_e: -10
+acgam:
+  R_EX_acgam_e: -10
+ser__D:
+  R_EX_ser__D_e: -10
+rib__D:
+  R_EX_rib__D_e: -10
+ile__L:
+  R_EX_ile__L_e: -10
+cys__L:
+  R_EX_cys__L_e: -10
+rmn:
+  R_EX_rmn_e: -10
+for:
+  R_EX_for_e: -10
+phe__L:
+  R_EX_phe__L_e: -10
+f6p:
+  R_EX_f6p_e: -10
+trp__L:
+  R_EX_trp__L_e: -10
+oaa:
+  R_EX_oaa_e: -10
+akg:
+  R_EX_akg_e: -10
+r5p:
+  R_EX_r5p_e: -10
+met__L:
+  R_EX_met__L_e: -10
+3pg:
+  R_EX_3pg_e: -10
+cyst__L:
+  R_EX_cyst__L_e: -10
+glu__D:
+  R_EX_glu__D_e: -10
+icit:
+  R_EX_icit_e: -10
+pep:
+  R_EX_pep_e: -10
+

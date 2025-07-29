@@ -1,0 +1,1386 @@
+3pg:
+  A1R12: no growth
+  A2M03: no growth
+  A3M17: no growth
+  A3R04: no growth
+  A3R06: no growth
+  A3R12: no growth
+  A3R16: no growth
+  B2M06: no growth
+  B2M13: no growth
+  B2M17: no growth
+  B3M02: no growth
+  B3R10: no growth
+  B3R18: no growth
+  C1M14: no growth
+  C1R06: no growth
+  C2M11: no growth
+  C2R02: no growth
+  C2R09: no growth
+  C3M06: no growth
+  C3M10: no growth
+  C3R12: no growth
+  C3R15: no growth
+  C3R17: no growth
+  D2M02: no growth
+  D2M19: no growth
+  D2R04: no growth
+  D2R05: no growth
+  D2R18: no growth
+  D3R19: no growth
+  E2M01: no growth
+  E3M09: no growth
+  E3M17: no growth
+  E3M18: no growth
+  E3R01: no growth
+  E3R09: no growth
+  E3R11: no growth
+  E3R11_: no growth
+  E3R18: no growth
+  F2R14: no growth
+  F3M07: no growth
+  F3M07_: no growth
+  F3R08: no growth
+  F3R11: no growth
+  G2M07: no growth
+  G2R10: no growth
+  G2R14: no growth
+  G3M19: no growth
+  I2M19: no growth
+  I2R16: no growth
+  I3M07: no growth
+  m_1A01: no growth
+  m_3B05: no growth
+  m_3C02: no growth
+  m_3D05: no growth
+  m_4A10: no growth
+  m_4B03: no growth
+  m_4E07: no growth
+  m_4F10: no growth
+  m_5C01: no growth
+  m_6C06: no growth
+  m_6D02: no growth
+  m_6D03: no growth
+ac:
+  A1R12: in community
+  A2M03: no growth
+  A3M17: no growth
+  A3R04: 0.2258155323698382
+  A3R06: no growth
+  A3R12: 0.3638436032246624
+  A3R16: no growth
+  B2M06: in community
+  B2M13: no growth
+  B2M17: no growth
+  B3M02: in community
+  B3R10: 0.17895598023891393
+  B3R18: no growth
+  C1M14: 0.2638241402538364
+  C1R06: 0.4065107854524268
+  C2M11: 0.3640482080075575
+  C2R02: 0.363858389721066
+  C2R09: no growth
+  C3M06: 0.48410338230353517
+  C3M10: no growth
+  C3R12: 0.21677262945256673
+  C3R15: no growth
+  C3R17: 0.3786847751329354
+  D2M02: no growth
+  D2M19: in community
+  D2R04: no growth
+  D2R05: 0.22438788072358976
+  D2R18: no growth
+  D3R19: in community
+  E2M01: in community
+  E3M09: no growth
+  E3M17: in community
+  E3M18: in community
+  E3R01: in community
+  E3R09: 0.2611216942275424
+  E3R11: 0.254989491863194
+  E3R11_: no growth
+  E3R18: in community
+  F2R14: no growth
+  F3M07: in community
+  F3M07_: in community
+  F3R08: in community
+  F3R11: no growth
+  G2M07: no growth
+  G2R10: 0.4019856506118575
+  G2R14: no growth
+  G3M19: in community
+  I2M19: no growth
+  I2R16: 0.17887254711290415
+  I3M07: 0.44320968424702945
+  m_1A01: 0.442621972927679
+  m_3B05: no growth
+  m_3C02: 0.4433092584127336
+  m_3D05: 0.22469086199917565
+  m_4A10: no growth
+  m_4B03: 0.3638423212151181
+  m_4E07: no growth
+  m_4F10: no growth
+  m_5C01: no growth
+  m_6C06: 0.2170114523695439
+  m_6D02: no growth
+  m_6D03: 0.48425285553727654
+acgam:
+  A1R12: in community
+  A2M03: no growth
+  A3M17: no growth
+  A3R04: in community
+  A3R06: no growth
+  A3R12: in community
+  A3R16: 1.1653295350221706
+  B2M06: in community
+  B2M13: no growth
+  B2M17: no growth
+  B3M02: 1.3873505571219455
+  B3R10: in community
+  B3R18: no growth
+  C1M14: in community
+  C1R06: in community
+  C2M11: 1.8202410400377809
+  C2R02: 1.8040385053515902
+  C2R09: no growth
+  C3M06: in community
+  C3M10: no growth
+  C3R12: 1.1494061167841552
+  C3R15: no growth
+  C3R17: in community
+  D2M02: no growth
+  D2M19: in community
+  D2R04: no growth
+  D2R05: 1.1918996046433732
+  D2R18: no growth
+  D3R19: in community
+  E2M01: 0.715863065277102
+  E3M09: no growth
+  E3M17: in community
+  E3M18: in community
+  E3R01: in community
+  E3R09: in community
+  E3R11: 1.2616333913131659
+  E3R11_: in community
+  E3R18: in community
+  F2R14: no growth
+  F3M07: in community
+  F3M07_: in community
+  F3R08: in community
+  F3R11: no growth
+  G2M07: no growth
+  G2R10: 1.8312679638984637
+  G2R14: no growth
+  G3M19: in community
+  I2M19: no growth
+  I2R16: in community
+  I3M07: 1.8614806738375214
+  m_1A01: 1.8590122862962475
+  m_3B05: no growth
+  m_3C02: 1.8618988853334668
+  m_3D05: 1.1935901290597442
+  m_4A10: no growth
+  m_4B03: in community
+  m_4E07: no growth
+  m_4F10: no growth
+  m_5C01: no growth
+  m_6C06: 1.1696221459225677
+  m_6D02: in community
+  m_6D03: 1.9370114221491037
+akg:
+  A1R12: in community
+  A2M03: no growth
+  A3M17: no growth
+  A3R04: in community
+  A3R06: no growth
+  A3R12: in community
+  A3R16: no growth
+  B2M06: in community
+  B2M13: no growth
+  B2M17: no growth
+  B3M02: in community
+  B3R10: in community
+  B3R18: no growth
+  C1M14: in community
+  C1R06: 0.8173384331324887
+  C2M11: in community
+  C2R02: in community
+  C2R09: no growth
+  C3M06: in community
+  C3M10: no growth
+  C3R12: in community
+  C3R15: no growth
+  C3R17: in community
+  D2M02: no growth
+  D2M19: in community
+  D2R04: no growth
+  D2R05: in community
+  D2R18: no growth
+  D3R19: in community
+  E2M01: 0.5725105034490378
+  E3M09: no growth
+  E3M17: in community
+  E3M18: in community
+  E3R01: in community
+  E3R09: in community
+  E3R11: in community
+  E3R11_: no growth
+  E3R18: in community
+  F2R14: no growth
+  F3M07: in community
+  F3M07_: in community
+  F3R08: in community
+  F3R11: no growth
+  G2M07: no growth
+  G2R10: in community
+  G2R14: no growth
+  G3M19: in community
+  I2M19: no growth
+  I2R16: in community
+  I3M07: in community
+  m_1A01: in community
+  m_3B05: no growth
+  m_3C02: in community
+  m_3D05: in community
+  m_4A10: no growth
+  m_4B03: in community
+  m_4E07: no growth
+  m_4F10: no growth
+  m_5C01: no growth
+  m_6C06: in community
+  m_6D02: in community
+  m_6D03: in community
+cit:
+  A1R12: in community
+  A2M03: no growth
+  A3M17: no growth
+  A3R04: in community
+  A3R06: no growth
+  A3R12: 1.0915308096739875
+  A3R16: no growth
+  B2M06: in community
+  B2M13: no growth
+  B2M17: no growth
+  B3M02: 0.7586500316756852
+  B3R10: 0.6290818380689134
+  B3R18: no growth
+  C1M14: 0.698188568438805
+  C1R06: 0.9341010664371312
+  C2M11: 1.092144624022672
+  C2R02: 1.0915751691631925
+  C2R09: no growth
+  C3M06: in community
+  C3M10: no growth
+  C3R12: 0.6027111309312021
+  C3R15: no growth
+  C3R17: in community
+  D2M02: no growth
+  D2M19: in community
+  D2R04: no growth
+  D2R05: 0.625306549614896
+  D2R18: no growth
+  D3R19: in community
+  E2M01: 0.6277394063796452
+  E3M09: no growth
+  E3M17: in community
+  E3M18: 0.6713383652689311
+  E3R01: in community
+  E3R09: in community
+  E3R11: 0.6688782907498758
+  E3R11_: in community
+  E3R18: in community
+  F2R14: no growth
+  F3M07: in community
+  F3M07_: in community
+  F3R08: in community
+  F3R11: no growth
+  G2M07: no growth
+  G2R10: 0.918458120319001
+  G2R14: no growth
+  G3M19: in community
+  I2M19: no growth
+  I2R16: 0.6228519725270463
+  I3M07: 0.918458120318995
+  m_1A01: 0.9184510684684738
+  m_3B05: in community
+  m_3C02: 0.9184581203189993
+  m_3D05: in community
+  m_4A10: no growth
+  m_4B03: in community
+  m_4E07: no growth
+  m_4F10: no growth
+  m_5C01: no growth
+  m_6C06: 0.6082074111645112
+  m_6D02: in community
+  m_6D03: 1.4527585666118257
+f6p:
+  A1R12: no growth
+  A2M03: no growth
+  A3M17: no growth
+  A3R04: in community
+  A3R06: no growth
+  A3R12: in community
+  A3R16: no growth
+  B2M06: in community
+  B2M13: no growth
+  B2M17: no growth
+  B3M02: in community
+  B3R10: in community
+  B3R18: no growth
+  C1M14: in community
+  C1R06: in community
+  C2M11: in community
+  C2R02: in community
+  C2R09: no growth
+  C3M06: in community
+  C3M10: no growth
+  C3R12: 0.9437294056396632
+  C3R15: no growth
+  C3R17: in community
+  D2M02: no growth
+  D2M19: in community
+  D2R04: no growth
+  D2R05: in community
+  D2R18: no growth
+  D3R19: in community
+  E2M01: in community
+  E3M09: no growth
+  E3M17: in community
+  E3M18: in community
+  E3R01: in community
+  E3R09: in community
+  E3R11: in community
+  E3R11_: in community
+  E3R18: in community
+  F2R14: no growth
+  F3M07: no growth
+  F3M07_: in community
+  F3R08: in community
+  F3R11: no growth
+  G2M07: no growth
+  G2R10: 1.403637831107164
+  G2R14: no growth
+  G3M19: no growth
+  I2M19: no growth
+  I2R16: in community
+  I3M07: in community
+  m_1A01: 1.4036271942086234
+  m_3B05: no growth
+  m_3C02: 1.4036378311071673
+  m_3D05: in community
+  m_4A10: no growth
+  m_4B03: in community
+  m_4E07: no growth
+  m_4F10: no growth
+  m_5C01: no growth
+  m_6C06: in community
+  m_6D02: in community
+  m_6D03: in community
+for:
+  A1R12: in community
+  A2M03: no growth
+  A3M17: no growth
+  A3R04: in community
+  A3R06: no growth
+  A3R12: in community
+  A3R16: no growth
+  B2M06: in community
+  B2M13: no growth
+  B2M17: no growth
+  B3M02: 0.17731763932107394
+  B3R10: in community
+  B3R18: no growth
+  C1M14: in community
+  C1R06: 0.11527158682758597
+  C2M11: in community
+  C2R02: in community
+  C2R09: no growth
+  C3M06: 0.24205169115176578
+  C3M10: no growth
+  C3R12: 0.06876926401160147
+  C3R15: no growth
+  C3R17: in community
+  D2M02: no growth
+  D2M19: in community
+  D2R04: no growth
+  D2R05: 0.046633772661446075
+  D2R18: no growth
+  D3R19: in community
+  E2M01: 0.022217878880582326
+  E3M09: no growth
+  E3M17: no growth
+  E3M18: in community
+  E3R01: in community
+  E3R09: no growth
+  E3R11: in community
+  E3R11_: no growth
+  E3R18: in community
+  F2R14: no growth
+  F3M07: in community
+  F3M07_: in community
+  F3R08: in community
+  F3R11: no growth
+  G2M07: no growth
+  G2R10: 0.11696981925893048
+  G2R14: no growth
+  G3M19: no growth
+  I2M19: no growth
+  I2R16: in community
+  I3M07: 0.11696981925893077
+  m_1A01: 0.11696893285073029
+  m_3B05: no growth
+  m_3C02: 0.11696981925893044
+  m_3D05: in community
+  m_4A10: no growth
+  m_4B03: in community
+  m_4E07: no growth
+  m_4F10: no growth
+  m_5C01: no growth
+  m_6C06: 0.06780984066863094
+  m_6D02: in community
+  m_6D03: 0.24212642776863805
+glc__D:
+  A1R12: in community
+  A2M03: no growth
+  A3M17: no growth
+  A3R04: 1.0199541675226025
+  A3R06: no growth
+  A3R12: 1.452105201531672
+  A3R16: no growth
+  B2M06: in community
+  B2M13: no growth
+  B2M17: no growth
+  B3M02: 1.4527148294206473
+  B3R10: 0.8921907430898315
+  B3R18: no growth
+  C1M14: 1.021446433282287
+  C1R06: 1.3832590419310251
+  C2M11: 1.4527755989407942
+  C2R02: 1.3940174491904582
+  C2R09: no growth
+  C3M06: 1.4523101469106174
+  C3M10: no growth
+  C3R12: 0.909618704231003
+  C3R15: no growth
+  C3R17: in community
+  D2M02: no growth
+  D2M19: 1.0025808044369438
+  D2R04: no growth
+  D2R05: 0.9432165458938051
+  D2R18: no growth
+  D3R19: in community
+  E2M01: 0.8919218391938281
+  E3M09: no growth
+  E3M17: in community
+  E3M18: 0.9447161467992211
+  E3R01: in community
+  E3R09: 1.022617943618701
+  E3R11: 0.9858159091361579
+  E3R11_: in community
+  E3R18: in community
+  F2R14: no growth
+  F3M07: in community
+  F3M07_: in community
+  F3R08: 1.4521052015316653
+  F3R11: in community
+  G2M07: no growth
+  G2R10: 1.4036378311071644
+  G2R14: no growth
+  G3M19: in community
+  I2M19: no growth
+  I2R16: 0.8917661069986801
+  I3M07: 1.4036378311071678
+  m_1A01: 1.403627194208762
+  m_3B05: no growth
+  m_3C02: 1.4036378311071698
+  m_3D05: 0.9445531283042834
+  m_4A10: no growth
+  m_4B03: 1.403036805110984
+  m_4E07: no growth
+  m_4F10: no growth
+  m_5C01: no growth
+  m_6C06: 0.9348909081587391
+  m_6D02: no growth
+  m_6D03: 1.452758566611827
+glu__D:
+  A1R12: no growth
+  A2M03: no growth
+  A3M17: no growth
+  A3R04: no growth
+  A3R06: no growth
+  A3R12: no growth
+  A3R16: no growth
+  B2M06: no growth
+  B2M13: no growth
+  B2M17: no growth
+  B3M02: no growth
+  B3R10: no growth
+  B3R18: no growth
+  C1M14: no growth
+  C1R06: no growth
+  C2M11: no growth
+  C2R02: no growth
+  C2R09: no growth
+  C3M06: no growth
+  C3M10: no growth
+  C3R12: no growth
+  C3R15: no growth
+  C3R17: no growth
+  D2M02: in community
+  D2M19: no growth
+  D2R04: no growth
+  D2R05: no growth
+  D2R18: no growth
+  D3R19: no growth
+  E2M01: no growth
+  E3M09: no growth
+  E3M17: no growth
+  E3M18: no growth
+  E3R01: no growth
+  E3R09: no growth
+  E3R11: no growth
+  E3R11_: no growth
+  E3R18: no growth
+  F2R14: no growth
+  F3M07: no growth
+  F3M07_: no growth
+  F3R08: no growth
+  F3R11: no growth
+  G2M07: no growth
+  G2R10: no growth
+  G2R14: no growth
+  G3M19: no growth
+  I2M19: no growth
+  I2R16: no growth
+  I3M07: in community
+  m_1A01: no growth
+  m_3B05: no growth
+  m_3C02: no growth
+  m_3D05: no growth
+  m_4A10: no growth
+  m_4B03: no growth
+  m_4E07: no growth
+  m_4F10: no growth
+  m_5C01: no growth
+  m_6C06: no growth
+  m_6D02: no growth
+  m_6D03: no growth
+icit:
+  A1R12: no growth
+  A2M03: no growth
+  A3M17: no growth
+  A3R04: no growth
+  A3R06: no growth
+  A3R12: no growth
+  A3R16: no growth
+  B2M06: no growth
+  B2M13: no growth
+  B2M17: no growth
+  B3M02: no growth
+  B3R10: no growth
+  B3R18: no growth
+  C1M14: no growth
+  C1R06: no growth
+  C2M11: in community
+  C2R02: no growth
+  C2R09: no growth
+  C3M06: no growth
+  C3M10: no growth
+  C3R12: no growth
+  C3R15: no growth
+  C3R17: no growth
+  D2M02: no growth
+  D2M19: no growth
+  D2R04: no growth
+  D2R05: no growth
+  D2R18: no growth
+  D3R19: no growth
+  E2M01: no growth
+  E3M09: no growth
+  E3M17: no growth
+  E3M18: no growth
+  E3R01: no growth
+  E3R09: no growth
+  E3R11: in community
+  E3R11_: no growth
+  E3R18: in community
+  F2R14: no growth
+  F3M07: no growth
+  F3M07_: no growth
+  F3R08: no growth
+  F3R11: no growth
+  G2M07: no growth
+  G2R10: no growth
+  G2R14: no growth
+  G3M19: no growth
+  I2M19: no growth
+  I2R16: no growth
+  I3M07: no growth
+  m_1A01: no growth
+  m_3B05: no growth
+  m_3C02: no growth
+  m_3D05: no growth
+  m_4A10: no growth
+  m_4B03: no growth
+  m_4E07: no growth
+  m_4F10: no growth
+  m_5C01: no growth
+  m_6C06: no growth
+  m_6D02: no growth
+  m_6D03: no growth
+ile__L:
+  A1R12: in community
+  A2M03: no growth
+  A3M17: no growth
+  A3R04: in community
+  A3R06: no growth
+  A3R12: 1.1028202461573557
+  A3R16: no growth
+  B2M06: in community
+  B2M13: no growth
+  B2M17: no growth
+  B3M02: in community
+  B3R10: 0.8828230516893112
+  B3R18: no growth
+  C1M14: in community
+  C1R06: 1.4127714149030648
+  C2M11: 1.1034468268753406
+  C2R02: 1.1028655280095676
+  C2R09: no growth
+  C3M06: in community
+  C3M10: no growth
+  C3R12: in community
+  C3R15: no growth
+  C3R17: in community
+  D2M02: no growth
+  D2M19: in community
+  D2R04: no growth
+  D2R05: in community
+  D2R18: no growth
+  D3R19: in community
+  E2M01: in community
+  E3M09: no growth
+  E3M17: in community
+  E3M18: in community
+  E3R01: in community
+  E3R09: 1.033351897573772
+  E3R11: 1.0378482803754885
+  E3R11_: no growth
+  E3R18: in community
+  F2R14: no growth
+  F3M07: in community
+  F3M07_: in community
+  F3R08: in community
+  F3R11: no growth
+  G2M07: no growth
+  G2R10: in community
+  G2R14: no growth
+  G3M19: in community
+  I2M19: no growth
+  I2R16: 0.8824020173661113
+  I3M07: 1.4289623772319442
+  m_1A01: in community
+  m_3B05: no growth
+  m_3C02: in community
+  m_3D05: 0.9214068081538319
+  m_4A10: no growth
+  m_4B03: 1.1028163201603787
+  m_4E07: no growth
+  m_4F10: no growth
+  m_5C01: no growth
+  m_6C06: in community
+  m_6D02: in community
+  m_6D03: 1.452758566611831
+met__L:
+  A1R12: in community
+  A2M03: no growth
+  A3M17: no growth
+  A3R04: in community
+  A3R06: no growth
+  A3R12: in community
+  A3R16: no growth
+  B2M06: no growth
+  B2M13: no growth
+  B2M17: no growth
+  B3M02: in community
+  B3R10: in community
+  B3R18: no growth
+  C1M14: in community
+  C1R06: 1.0550054277808867
+  C2M11: in community
+  C2R02: in community
+  C2R09: no growth
+  C3M06: in community
+  C3M10: no growth
+  C3R12: in community
+  C3R15: no growth
+  C3R17: in community
+  D2M02: no growth
+  D2M19: in community
+  D2R04: no growth
+  D2R05: in community
+  D2R18: no growth
+  D3R19: in community
+  E2M01: in community
+  E3M09: no growth
+  E3M17: in community
+  E3M18: in community
+  E3R01: in community
+  E3R09: in community
+  E3R11: in community
+  E3R11_: no growth
+  E3R18: in community
+  F2R14: no growth
+  F3M07: in community
+  F3M07_: in community
+  F3R08: no growth
+  F3R11: no growth
+  G2M07: no growth
+  G2R10: in community
+  G2R14: no growth
+  G3M19: in community
+  I2M19: no growth
+  I2R16: in community
+  I3M07: in community
+  m_1A01: in community
+  m_3B05: no growth
+  m_3C02: in community
+  m_3D05: in community
+  m_4A10: no growth
+  m_4B03: in community
+  m_4E07: no growth
+  m_4F10: no growth
+  m_5C01: no growth
+  m_6C06: in community
+  m_6D02: in community
+  m_6D03: in community
+oaa:
+  A1R12: in community
+  A2M03: no growth
+  A3M17: no growth
+  A3R04: in community
+  A3R06: no growth
+  A3R12: 0.7276872064493224
+  A3R16: no growth
+  B2M06: in community
+  B2M13: no growth
+  B2M17: no growth
+  B3M02: in community
+  B3R10: in community
+  B3R18: no growth
+  C1M14: in community
+  C1R06: in community
+  C2M11: in community
+  C2R02: in community
+  C2R09: no growth
+  C3M06: in community
+  C3M10: no growth
+  C3R12: in community
+  C3R15: no growth
+  C3R17: in community
+  D2M02: no growth
+  D2M19: in community
+  D2R04: no growth
+  D2R05: 0.35721590161341055
+  D2R18: no growth
+  D3R19: in community
+  E2M01: in community
+  E3M09: no growth
+  E3M17: in community
+  E3M18: in community
+  E3R01: in community
+  E3R09: in community
+  E3R11: in community
+  E3R11_: in community
+  E3R18: in community
+  F2R14: no growth
+  F3M07: in community
+  F3M07_: in community
+  F3R08: in community
+  F3R11: no growth
+  G2M07: no growth
+  G2R10: in community
+  G2R14: no growth
+  G3M19: in community
+  I2M19: no growth
+  I2R16: in community
+  I3M07: in community
+  m_1A01: in community
+  m_3B05: no growth
+  m_3C02: in community
+  m_3D05: 0.3577228426938735
+  m_4A10: no growth
+  m_4B03: in community
+  m_4E07: no growth
+  m_4F10: no growth
+  m_5C01: no growth
+  m_6C06: in community
+  m_6D02: in community
+  m_6D03: in community
+pep:
+  A1R12: no growth
+  A2M03: no growth
+  A3M17: no growth
+  A3R04: no growth
+  A3R06: no growth
+  A3R12: no growth
+  A3R16: no growth
+  B2M06: no growth
+  B2M13: no growth
+  B2M17: no growth
+  B3M02: no growth
+  B3R10: no growth
+  B3R18: no growth
+  C1M14: no growth
+  C1R06: no growth
+  C2M11: no growth
+  C2R02: no growth
+  C2R09: no growth
+  C3M06: no growth
+  C3M10: no growth
+  C3R12: no growth
+  C3R15: no growth
+  C3R17: no growth
+  D2M02: no growth
+  D2M19: no growth
+  D2R04: no growth
+  D2R05: no growth
+  D2R18: no growth
+  D3R19: no growth
+  E2M01: no growth
+  E3M09: no growth
+  E3M17: no growth
+  E3M18: no growth
+  E3R01: no growth
+  E3R09: no growth
+  E3R11: no growth
+  E3R11_: no growth
+  E3R18: no growth
+  F2R14: no growth
+  F3M07: no growth
+  F3M07_: no growth
+  F3R08: no growth
+  F3R11: no growth
+  G2M07: no growth
+  G2R10: no growth
+  G2R14: no growth
+  G3M19: no growth
+  I2M19: no growth
+  I2R16: no growth
+  I3M07: no growth
+  m_1A01: no growth
+  m_3B05: no growth
+  m_3C02: no growth
+  m_3D05: no growth
+  m_4A10: no growth
+  m_4B03: no growth
+  m_4E07: no growth
+  m_4F10: no growth
+  m_5C01: no growth
+  m_6C06: no growth
+  m_6D02: no growth
+  m_6D03: no growth
+phe__L:
+  A1R12: in community
+  A2M03: no growth
+  A3M17: no growth
+  A3R04: in community
+  A3R06: no growth
+  A3R12: in community
+  A3R16: no growth
+  B2M06: in community
+  B2M13: no growth
+  B2M17: no growth
+  B3M02: 0.8033624215331783
+  B3R10: in community
+  B3R18: no growth
+  C1M14: in community
+  C1R06: in community
+  C2M11: 1.5018204598727067
+  C2R02: in community
+  C2R09: no growth
+  C3M06: in community
+  C3M10: no growth
+  C3R12: in community
+  C3R15: no growth
+  C3R17: in community
+  D2M02: no growth
+  D2M19: no growth
+  D2R04: no growth
+  D2R05: in community
+  D2R18: no growth
+  D3R19: in community
+  E2M01: in community
+  E3M09: no growth
+  E3M17: in community
+  E3M18: in community
+  E3R01: in community
+  E3R09: in community
+  E3R11: 0.49376335984812547
+  E3R11_: in community
+  E3R18: in community
+  F2R14: no growth
+  F3M07: in community
+  F3M07_: no growth
+  F3R08: in community
+  F3R11: no growth
+  G2M07: no growth
+  G2R10: in community
+  G2R14: no growth
+  G3M19: in community
+  I2M19: no growth
+  I2R16: in community
+  I3M07: in community
+  m_1A01: in community
+  m_3B05: no growth
+  m_3C02: in community
+  m_3D05: 1.2975723175400224
+  m_4A10: no growth
+  m_4B03: in community
+  m_4E07: no growth
+  m_4F10: no growth
+  m_5C01: no growth
+  m_6C06: in community
+  m_6D02: in community
+  m_6D03: in community
+pro__L:
+  A1R12: in community
+  A2M03: no growth
+  A3M17: no growth
+  A3R04: 0.8240577747253056
+  A3R06: no growth
+  A3R12: 1.0915308096739818
+  A3R16: no growth
+  B2M06: in community
+  B2M13: no growth
+  B2M17: no growth
+  B3M02: 0.7586500316756878
+  B3R10: 0.7375859388492048
+  B3R18: no growth
+  C1M14: 0.825394387541502
+  C1R06: 1.0534970027095354
+  C2M11: 1.092144624022666
+  C2R02: 1.0915751691631985
+  C2R09: no growth
+  C3M06: 1.210258455758839
+  C3M10: no growth
+  C3R12: 0.7417895646506376
+  C3R15: no growth
+  C3R17: 1.0557756479373464
+  D2M02: no growth
+  D2M19: in community
+  D2R04: no growth
+  D2R05: 0.7397547160743471
+  D2R18: no growth
+  D3R19: in community
+  E2M01: 0.7401462805601624
+  E3M09: no growth
+  E3M17: in community
+  E3M18: 0.7734246638407812
+  E3R01: 1.1361065441879663
+  E3R09: 0.8209548597543703
+  E3R11: 0.8235630986096957
+  E3R11_: no growth
+  E3R18: 0.7582885429643104
+  F2R14: no growth
+  F3M07: no growth
+  F3M07_: in community
+  F3R08: in community
+  F3R11: no growth
+  G2M07: no growth
+  G2R10: 1.069261339308843
+  G2R14: no growth
+  G3M19: in community
+  I2M19: no growth
+  I2R16: 0.7369679564249075
+  I3M07: 1.0692613393088457
+  m_1A01: 1.0692531090916644
+  m_3B05: no growth
+  m_3C02: 1.069261339308843
+  m_3D05: 0.7413016841131707
+  m_4A10: no growth
+  m_4B03: 1.0915269636453535
+  m_4E07: no growth
+  m_4F10: no growth
+  m_5C01: no growth
+  m_6C06: 0.7420964366695707
+  m_6D02: in community
+  m_6D03: 1.2106321388431909
+pyr:
+  A1R12: in community
+  A2M03: no growth
+  A3M17: no growth
+  A3R04: 0.3824075412278516
+  A3R06: no growth
+  A3R12: 0.7260526007658364
+  A3R16: no growth
+  B2M06: in community
+  B2M13: no growth
+  B2M17: no growth
+  B3M02: 0.19819293673170615
+  B3R10: 0.34197140449326047
+  B3R18: no growth
+  C1M14: 0.3829566110285597
+  C1R06: 0.5763579341379291
+  C2M11: 0.7263877994703924
+  C2R02: 0.6970087245952292
+  C2R09: no growth
+  C3M06: 0.7261550734553015
+  C3M10: no growth
+  C3R12: 0.333301169524655
+  C3R15: no growth
+  C3R17: 0.5775861688827989
+  D2M02: no growth
+  D2M19: in community
+  D2R04: no growth
+  D2R05: 0.34305137499812005
+  D2R18: no growth
+  D3R19: in community
+  E2M01: in community
+  E3M09: no growth
+  E3M17: in community
+  E3M18: 0.35248168264626106
+  E3R01: in community
+  E3R09: 0.3818077422967381
+  E3R11: 0.3719042647269186
+  E3R11_: no growth
+  E3R18: in community
+  F2R14: no growth
+  F3M07: in community
+  F3M07_: in community
+  F3R08: in community
+  F3R11: no growth
+  G2M07: no growth
+  G2R10: 0.5848490962946553
+  G2R14: no growth
+  G3M19: in community
+  I2M19: no growth
+  I2R16: 0.3418092531979015
+  I3M07: 0.5848490962946506
+  m_1A01: 0.5848446642536517
+  m_3B05: no growth
+  m_3C02: 0.5848490962946518
+  m_3D05: 0.3435238029442809
+  m_4A10: no growth
+  m_4B03: 0.5845986687962426
+  m_4E07: no growth
+  m_4F10: no growth
+  m_5C01: no growth
+  m_6C06: 0.3502995563840558
+  m_6D02: no growth
+  m_6D03: 0.7263792833059145
+r5p:
+  A1R12: in community
+  A2M03: no growth
+  A3M17: no growth
+  A3R04: in community
+  A3R06: no growth
+  A3R12: in community
+  A3R16: no growth
+  B2M06: in community
+  B2M13: no growth
+  B2M17: no growth
+  B3M02: in community
+  B3R10: in community
+  B3R18: no growth
+  C1M14: 0.8119189597884787
+  C1R06: in community
+  C2M11: in community
+  C2R02: in community
+  C2R09: no growth
+  C3M06: in community
+  C3M10: no growth
+  C3R12: in community
+  C3R15: no growth
+  C3R17: in community
+  D2M02: no growth
+  D2M19: in community
+  D2R04: no growth
+  D2R05: in community
+  D2R18: no growth
+  D3R19: in community
+  E2M01: in community
+  E3M09: no growth
+  E3M17: no growth
+  E3M18: in community
+  E3R01: in community
+  E3R09: no growth
+  E3R11: in community
+  E3R11_: in community
+  E3R18: in community
+  F2R14: no growth
+  F3M07: in community
+  F3M07_: in community
+  F3R08: in community
+  F3R11: no growth
+  G2M07: no growth
+  G2R10: in community
+  G2R14: no growth
+  G3M19: in community
+  I2M19: no growth
+  I2R16: in community
+  I3M07: in community
+  m_1A01: in community
+  m_3B05: no growth
+  m_3C02: in community
+  m_3D05: in community
+  m_4A10: no growth
+  m_4B03: in community
+  m_4E07: no growth
+  m_4F10: no growth
+  m_5C01: no growth
+  m_6C06: in community
+  m_6D02: in community
+  m_6D03: in community
+rib__D:
+  A1R12: in community
+  A2M03: no growth
+  A3M17: no growth
+  A3R04: 0.8107327998256602
+  A3R06: no growth
+  A3R12: in community
+  A3R16: no growth
+  B2M06: in community
+  B2M13: no growth
+  B2M17: no growth
+  B3M02: in community
+  B3R10: in community
+  B3R18: no growth
+  C1M14: 0.8119189597884812
+  C1R06: in community
+  C2M11: in community
+  C2R02: in community
+  C2R09: no growth
+  C3M06: 1.2102584557588718
+  C3M10: no growth
+  C3R12: 0.7125346516476144
+  C3R15: no growth
+  C3R17: in community
+  D2M02: no growth
+  D2M19: 0.7945672729955512
+  D2R04: no growth
+  D2R05: 0.738852960950148
+  D2R18: no growth
+  D3R19: in community
+  E2M01: in community
+  E3M09: no growth
+  E3M17: in community
+  E3M18: in community
+  E3R01: in community
+  E3R09: in community
+  E3R11: in community
+  E3R11_: in community
+  E3R18: in community
+  F2R14: no growth
+  F3M07: in community
+  F3M07_: in community
+  F3R08: 1.210087667943062
+  F3R11: no growth
+  G2M07: no growth
+  G2R10: 1.169698192589306
+  G2R14: no growth
+  G3M19: in community
+  I2M19: no growth
+  I2R16: in community
+  I3M07: 1.1696981925893024
+  m_1A01: 1.1696893285073067
+  m_3B05: no growth
+  m_3C02: 1.1696981925893106
+  m_3D05: in community
+  m_4A10: no growth
+  m_4B03: 1.169197337592486
+  m_4E07: no growth
+  m_4F10: no growth
+  m_5C01: no growth
+  m_6C06: in community
+  m_6D02: in community
+  m_6D03: 1.2106321388431869
+rmn:
+  A1R12: in community
+  A2M03: no growth
+  A3M17: no growth
+  A3R04: in community
+  A3R06: no growth
+  A3R12: in community
+  A3R16: no growth
+  B2M06: in community
+  B2M13: no growth
+  B2M17: no growth
+  B3M02: in community
+  B3R10: in community
+  B3R18: no growth
+  C1M14: in community
+  C1R06: 1.383259041931025
+  C2M11: 1.4527755989407942
+  C2R02: in community
+  C2R09: no growth
+  C3M06: 1.452310146910597
+  C3M10: no growth
+  C3R12: 0.8378951444506482
+  C3R15: no growth
+  C3R17: 1.3862068053187282
+  D2M02: no growth
+  D2M19: in community
+  D2R04: no growth
+  D2R05: in community
+  D2R18: no growth
+  D3R19: in community
+  E2M01: in community
+  E3M09: no growth
+  E3M17: in community
+  E3M18: 0.952296125659562
+  E3R01: in community
+  E3R09: in community
+  E3R11: in community
+  E3R11_: no growth
+  E3R18: in community
+  F2R14: no growth
+  F3M07: in community
+  F3M07_: in community
+  F3R08: in community
+  F3R11: no growth
+  G2M07: no growth
+  G2R10: 1.403637831107165
+  G2R14: no growth
+  G3M19: in community
+  I2M19: no growth
+  I2R16: in community
+  I3M07: 1.4036378311071656
+  m_1A01: in community
+  m_3B05: no growth
+  m_3C02: 1.4036378311071658
+  m_3D05: no growth
+  m_4A10: no growth
+  m_4B03: in community
+  m_4E07: no growth
+  m_4F10: no growth
+  m_5C01: no growth
+  m_6C06: in community
+  m_6D02: in community
+  m_6D03: in community
+ser__D:
+  A1R12: in community
+  A2M03: no growth
+  A3M17: no growth
+  A3R04: in community
+  A3R06: no growth
+  A3R12: 0.7260526007658359
+  A3R16: no growth
+  B2M06: in community
+  B2M13: no growth
+  B2M17: no growth
+  B3M02: 0.3546352786421479
+  B3R10: 0.35758316924237327
+  B3R18: no growth
+  C1M14: in community
+  C1R06: 0.5763579341379255
+  C2M11: 0.7263877994703943
+  C2R02: in community
+  C2R09: no growth
+  C3M06: in community
+  C3M10: no growth
+  C3R12: in community
+  C3R15: no growth
+  C3R17: 0.5775861688828018
+  D2M02: no growth
+  D2M19: in community
+  D2R04: no growth
+  D2R05: 0.35368537177255355
+  D2R18: no growth
+  D3R19: in community
+  E2M01: in community
+  E3M09: no growth
+  E3M17: in community
+  E3M18: in community
+  E3R01: 0.7263156398155705
+  E3R09: 0.38614038573645887
+  E3R11: no growth
+  E3R11_: in community
+  E3R18: in community
+  F2R14: no growth
+  F3M07: in community
+  F3M07_: no growth
+  F3R08: no growth
+  F3R11: no growth
+  G2M07: no growth
+  G2R10: 0.5848490962946522
+  G2R14: no growth
+  G3M19: in community
+  I2M19: no growth
+  I2R16: 0.35741061610537495
+  I3M07: in community
+  m_1A01: 0.5848446642536517
+  m_3B05: no growth
+  m_3C02: 0.5848490962946532
+  m_3D05: in community
+  m_4A10: no growth
+  m_4B03: 0.5845986687962444
+  m_4E07: no growth
+  m_4F10: no growth
+  m_5C01: no growth
+  m_6C06: in community
+  m_6D02: in community
+  m_6D03: in community
+trp__L:
+  A1R12: in community
+  A2M03: no growth
+  A3M17: no growth
+  A3R04: in community
+  A3R06: no growth
+  A3R12: in community
+  A3R16: no growth
+  B2M06: in community
+  B2M13: no growth
+  B2M17: no growth
+  B3M02: in community
+  B3R10: in community
+  B3R18: no growth
+  C1M14: in community
+  C1R06: in community
+  C2M11: in community
+  C2R02: in community
+  C2R09: no growth
+  C3M06: in community
+  C3M10: no growth
+  C3R12: 0.34790064222214095
+  C3R15: no growth
+  C3R17: in community
+  D2M02: no growth
+  D2M19: in community
+  D2R04: no growth
+  D2R05: in community
+  D2R18: no growth
+  D3R19: in community
+  E2M01: in community
+  E3M09: no growth
+  E3M17: in community
+  E3M18: in community
+  E3R01: in community
+  E3R09: in community
+  E3R11: in community
+  E3R11_: in community
+  E3R18: in community
+  F2R14: no growth
+  F3M07: in community
+  F3M07_: in community
+  F3R08: in community
+  F3R11: no growth
+  G2M07: no growth
+  G2R10: 0.5917070309885578
+  G2R14: no growth
+  G3M19: in community
+  I2M19: no growth
+  I2R16: in community
+  I3M07: 0.5917070309885593
+  m_1A01: 0.5917024943984225
+  m_3B05: no growth
+  m_3C02: 0.591707030988559
+  m_3D05: in community
+  m_4A10: no growth
+  m_4B03: in community
+  m_4E07: no growth
+  m_4F10: no growth
+  m_5C01: no growth
+  m_6C06: in community
+  m_6D02: in community
+  m_6D03: 0.7342080183710705
