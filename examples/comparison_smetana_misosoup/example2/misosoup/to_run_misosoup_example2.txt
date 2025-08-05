@@ -1,0 +1,1 @@
+misosoup example2/strains/*.xml --output example2/misosoup/OUTPUT_example.yaml --base-medium example2/misosoup/medium_MBM_no_co2_hco3.yaml --carbon-sources glu__D --strain B3M02 --parsimony

@@ -1,0 +1,5 @@
+# run global analysis
+smetana example2/strains/*.xml -m MBM_glu__D --mediadb example2/smetana/medium_smetanaFormat.tsv --global -o example2/smetana/OUTPUT_1
+
+# run detailed analysis
+smetana example2/strains/*.xml -m MBM_glu__D --mediadb example2/smetana/medium_smetanaFormat.tsv --detailed -o example2/smetana/OUTPUT_1
